@@ -1,1 +1,2 @@
 google.com, pub-8402959704752802, DIRECT, f08c47fec0942fa0
+// not valid as githubio is cname not placed under basic name
